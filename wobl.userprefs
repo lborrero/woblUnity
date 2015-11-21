@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LabelController.cs">
+    <Files>
+      <File FileName="Assets/PopupManager.cs" Line="7" Column="1" />
+      <File FileName="Assets/LabelController.cs" Line="11" Column="14" />
+      <File FileName="Assets/MidiOptions.cs" Line="34" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
